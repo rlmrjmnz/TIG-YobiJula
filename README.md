@@ -13,7 +13,7 @@ This because the astronauts can't feel when they grab an object or use a tool du
 
 ## How it works?
 
-While grabbing an object, the pressure sensors on the fingertips measures how much pressure is being done and transfer it to the glove controller. The glove controller based on the pressure readings calculates how much vibration is needed to apply to transmit the *"feeling"* of grabbing an object. The glove is equipped with a gyroscope to readjust the vibration applied based on the position of the hand.
+While grabbing an object, the pressure sensors on the fingertips measures how much pressure is being done and transfer it to the glove controller. The glove controller based on the pressure readings calculates how much vibration is needed to transmit the *"feeling"* of grabbing an object. The glove is equipped with a gyroscope to readjust the vibration applied based on the position of the hand.
 
 ## Components
 
