@@ -26,7 +26,9 @@ While grabbing an object, the pressure sensors on the fingertips measures how mu
 
 ## Prototype
 
+### Palm View
 ![Palm](https://app.slidebean.com/php/imgix/thumbnail.php?w=1024&url=http%3A%2F%2Ffiles.parsetfss.com%2F2d20bf85-1dbd-48b7-8083-9b43e7d1a8d7%2Ftfss-e6a2cdde-d6d1-4a5c-a5b4-0695d213737b-IndicacionesABajo.jpg)
 
+### Back View
 ![Back](https://app.slidebean.com/php/imgix/thumbnail.php?w=1024&url=http%3A%2F%2Ffiles.parsetfss.com%2F2d20bf85-1dbd-48b7-8083-9b43e7d1a8d7%2Ftfss-61987f2f-b9d9-4e17-96bc-8e326acd512b-IndicacionesArriba.jpg)
 
